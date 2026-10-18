@@ -14,7 +14,8 @@
 6. Вывести результат ведется записи или нет.
 
 ### Блок-схема
-![ris1](Lab4.png)
+<img width="122" height="617" alt="Lab4 drawio" src="https://github.com/user-attachments/assets/8a41dca8-7bb1-4da3-84dd-1de5a8967184" />
+
 
 ## 2. Реализация программы.
 ## 3. Результаты работы программы.
